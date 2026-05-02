@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![StudiFi Banner](assets/splash-logo.png)
+<img src="assets/splash-logo.png" alt="StudiFi Banner" style="background-color: white; padding: 10px; border-radius: 8px;" />
 
 **Personal Finance Tracker for Students built with Expo & React Native**
 
